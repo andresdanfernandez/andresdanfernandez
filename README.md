@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to my GitHub! 👋
 
-<!--
-**andresdanfernandez/andresdanfernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Andres Fernandez**, a Computer Science major with a passion for technology, software development, and game development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+### Programming Languages:
+- **Proficient:** JavaScript, Python, Java, Lua, TypeScript
+- **Familiar:** C, SQL, C++
+
+### Frameworks & Tools:
+- Frontend: React, Vue.js, TailwindCSS
+- Backend: Node.js, Express, MongoDB
+- Other: Vercel, Git/Github
+  
+---
+
+## 📝 Fun Fact
+My favorite video game of all time is Old school RuneScape. If you know... you know.
