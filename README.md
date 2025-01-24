@@ -18,6 +18,13 @@ Hi there! I'm **Andres Fernandez**, a Computer Science major with a passion for 
   
 ---
 
+## 📚 Currently Reading
+![Image](https://github.com/user-attachments/assets/47b11bde-a95e-47d7-b98b-283706296eee)
+
+
+---
+
 ## 📝 Fun Fact
 My favorite video game is Old school RuneScape. If you know... you know.
+
 
