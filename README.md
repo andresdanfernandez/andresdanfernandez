@@ -19,5 +19,5 @@ Hi there! I'm **Andres Fernandez**, a Computer Science major with a passion for 
 ---
 
 ## 📝 Fun Fact
-My favorite video game of all time is Old school RuneScape. If you know... you know.
+My favorite video game is Old school RuneScape. If you know... you know.
 
