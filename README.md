@@ -12,8 +12,7 @@ Hi there! I'm **Andres Fernandez**, a Computer Science major with a passion for 
 - **Familiar:** C, SQL, C++
 
 ### Frameworks & Tools:
-- Frontend: React, Vue.js, TailwindCSS
-- Backend: Node.js, Express, MongoDB
+- Technologies: React, Express.js, Vue.js, Next.js, Node.js, MongoDB, TailwindCSS
 - Other: Vercel, Git/Github
   
 ---
