@@ -7,7 +7,7 @@ Hi there! I'm **Andres Fernandez**, a Computer Science major with a passion for 
 
 ## 💻 Skills
 
-### Programming Languages:
+### Languages:
 - **Proficient:** JavaScript, Python, Java, Lua, TypeScript
 - **Familiar:** C, SQL, C++
 
