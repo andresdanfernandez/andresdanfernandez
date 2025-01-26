@@ -19,7 +19,7 @@ Hi there! I'm **Andres Fernandez**, a Computer Science major with a passion for 
 ---
 
 ## 📚 Currently Reading
-![Image](https://github.com/user-attachments/assets/47b11bde-a95e-47d7-b98b-283706296eee)
+![Image](https://github.com/user-attachments/assets/c0191fa1-bc58-4889-87d5-cde323d943c8)
 
 
 ---
