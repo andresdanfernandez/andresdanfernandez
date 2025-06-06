@@ -8,12 +8,12 @@ Hi there! I'm **Andres Fernandez**, a Computer Science major with a passion for 
 ## 💻 Skills
 
 ### Languages:
-- **Proficient:** JavaScript, Python, Java, Lua, TypeScript
-- **Familiar:** C, SQL, C++
+- **Proficient:** JavaScript, Python, Java, HTML/CSS
+- **Familiar:** SQL, C++
 
 ### Frameworks & Tools:
-- Technologies: React, Express.js, Vue.js, Next.js, Node.js, MongoDB, TailwindCSS
-- Other: Vercel, Git/Github
+- Technologies: React, Express.js, Vue.js, Next.js, Node.js, MongoDB
+- Other: Git
   
 ---
 
