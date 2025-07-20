@@ -8,12 +8,11 @@ Hi there! I'm **Andres Fernandez**, a Computer Science major with a passion for 
 ## 💻 Skills
 
 ### Languages:
-- Python, Java, C++, JavaScript, TypeScript, SQL, HTML/CSS
+- Python, Java, Go, C++, JavaScript, TypeScript, SQL (PostgreSQL), HTML/CSS
 
-### Frameworks & Tools:
-- Technologies: React, Express, Vue.js, Next.js, Node.js, MongoDB
-- Other: Tailwind CSS
-  
+### Technologies & Frameworks:
+- React, Vue.js, Redux, Express, Node.js, MongoDB, Supabase, Docker, AWS S3, Nginx, Github Actions, Figma, Git, Jest, Flask, Django, TailwindCSS
+
 ---
 
 ## 📝 Fun Fact
