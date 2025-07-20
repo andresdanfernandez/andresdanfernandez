@@ -1,7 +1,7 @@
 # Welcome to my GitHub! 🚀
 
 Hi there! I'm **Andres Fernandez**, a Computer Science major with a passion for technology and software development. You can find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/andresdfernandez/).
-Also, check out my [website](http://andresdanfernandez/github.io)! 
+Also, check out my <a href="http://andresdanfernandez.github.io" target="_blank">website!</a> 
 
 ---
 
