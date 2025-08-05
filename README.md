@@ -16,6 +16,6 @@ Also, check out my <a href="http://andresdanfernandez.github.io" target="_blank"
 ---
 
 ## 📝 Fun Fact
-My favorite video game is Old school RuneScape. If you know... you know.
+My favorite video game is Old School RuneScape. If you know... you know.
 
 
