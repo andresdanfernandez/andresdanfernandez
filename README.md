@@ -1,11 +1,11 @@
-# Welcome to my GitHub! 🚀
+# Welcome to my GitHub!
 
 Hi there! I'm **Andres Fernandez**, a Computer Science major with a passion for technology and software development. You can find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/andresdfernandez/).
 Also, check out my <a href="http://andresdanfernandez.github.io" target="_blank">website!</a> 
 
 ---
 
-## 💻 Skills
+## Skills
 
 ### Languages:
 - Python, Java, Go, C++, JavaScript, TypeScript, SQL (PostgreSQL), HTML/CSS
@@ -15,7 +15,7 @@ Also, check out my <a href="http://andresdanfernandez.github.io" target="_blank"
 
 ---
 
-## 📝 Fun Fact
+## Fun Fact
 My favorite video game is Old School RuneScape. If you know... you know.
 
 
